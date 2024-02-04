@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 #
+# 1. https://www.ohse.de/uwe/software/lrzsz.html
+# 2. https://gallium.inria.fr/~doligez/zmodem/zmodem.txt
+# 3. https://wiki.synchro.net/ref:zmodem
+# 4. https://zhuanlan.zhihu.com/p/579720546
+#
 wget https://ohse.de/uwe/releases/lrzsz-0.12.20.tar.gz
 tar -xvf lrzsz-0.12.20.tar.gz
 cd lrzsz-0.12.20/
